@@ -1,3 +1,7 @@
+# Now Developing in Privite Repos
+At git.oschina.net/ryanemax/anas_agile
+Only Developer can view.
+
 # agile-app
 agile-app is an ionic app for private use to enhence our work &amp; life. Such as Project, Task, Event, Wiki, etc.
 
