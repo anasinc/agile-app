@@ -1,5 +1,5 @@
 # Now Developing in Privite Repos
-At git.oschina.net/ryanemax/anas_agile
+Project At http://git.oschina.net/ryanemax/anas_agile
 Only Developer can view.
 
 # agile-app
